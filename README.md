@@ -16,8 +16,6 @@ SpaceX aims to perform controlled landings of the Falcon 9 first stage to enable
  - ├── Interactive Visual Analytics with Folium/ # Interactive mapping and geospatial analysis
  - ├── Interactive Dashboard with Plotly Dash/ # Dash app for interactive data exploration
  - ├── Complete the Machine Learning Prediction/ # Model training, tuning, and evaluation
- - ├── README.md # This README file
- - ├── requirements.txt # Python dependencies
 
 ---
 
