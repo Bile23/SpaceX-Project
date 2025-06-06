@@ -1,7 +1,7 @@
 # 🚀 SpaceX Falcon 9 First Stage Landing Prediction
 
 This project performs exploratory data analysis, interactive visual analytics, and predictive modeling to predict whether the first stage of SpaceX Falcon 9 rockets will land successfully.
-
+---
 
 ## 📝 Project Overview
 
