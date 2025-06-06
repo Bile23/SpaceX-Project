@@ -8,16 +8,16 @@ This project performs exploratory data analysis, interactive visual analytics, a
 SpaceX aims to perform controlled landings of the Falcon 9 first stage to enable rocket reuse and reduce launch costs. This project leverages SpaceX launch data to analyze historical trends and build machine learning models to predict successful landings.
 
 ## 📂 Project Folder Structure
-├── Data Collection/ # Scripts and notebooks for gathering data
-├── Web Scraping/ # Code to scrape relevant SpaceX launch data
-├── Data Wrangling/ # Data cleaning and preprocessing notebooks/scripts
-├── EDA with SQL/ # Exploratory data analysis using SQL queries
-├── EDA with Visualization/ # Visualization notebooks (matplotlib, seaborn, etc.)
-├── Interactive Visual Analytics with Folium/ # Interactive mapping and geospatial analysis
-├── Interactive Dashboard with Plotly Dash/ # Dash app for interactive data exploration
-├── Complete the Machine Learning Prediction/ # Model training, tuning, and evaluation
-├── README.md # This README file
-├── requirements.txt # Python dependencies
+ - ├── Data Collection/ # Scripts and notebooks for gathering data
+ - ├── Web Scraping/ # Code to scrape relevant SpaceX launch data
+ - ├── Data Wrangling/ # Data cleaning and preprocessing notebooks/scripts
+ - ├── EDA with SQL/ # Exploratory data analysis using SQL queries
+ - ├── EDA with Visualization/ # Visualization notebooks (matplotlib, seaborn, etc.)
+ - ├── Interactive Visual Analytics with Folium/ # Interactive mapping and geospatial analysis
+ - ├── Interactive Dashboard with Plotly Dash/ # Dash app for interactive data exploration
+ - ├── Complete the Machine Learning Prediction/ # Model training, tuning, and evaluation
+ - ├── README.md # This README file
+ - ├── requirements.txt # Python dependencies
 
 ---
 
